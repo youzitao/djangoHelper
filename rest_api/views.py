@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# 版本现在无法使用django-filter
+
 from django.shortcuts import render
 
 # Create your views here.
